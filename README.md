@@ -1,16 +1,14 @@
-# utspemmob2
+# Ujian Tengah Semester Ganjil
+NPM : 23552011094
+Nama : Nisa Silva Triana
+Kelas : TIF 23 CID A
 
-A new Flutter project.
+Gemini AI
+Aplikasi ini dibuat dengan tema Gemini, yang mengimplementasikan kemampuan AI untuk mengirim teks dan gambar.
+Komponen Aplikasi
+- Sidebar Navigation (Drawer): Memudahkan navigasi ke halaman Information dan About.
+- Information Page: Menampilkan daftar petunjuk penggunaan Gemini AI dalam bentuk ListView.
+- About Page: Berisi informasi aplikasi serta copyright.
+## Copyright ##
+© 2025 | Nisa Silva Triana – 23552011094
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
