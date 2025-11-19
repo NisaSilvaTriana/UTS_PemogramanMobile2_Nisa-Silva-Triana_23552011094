@@ -4,8 +4,8 @@ Nama: Nisa Silva Triana<br>
 Kelas: TIF 23 CID A
 
 Gemini AI<br>
-Aplikasi ini dibuat dengan tema Gemini, yang mengimplementasikan kemampuan AI untuk mengirim teks dan gambar.
-Komponen Aplikasi
+Aplikasi ini dibuat dengan tema Gemini, yang mengimplementasikan kemampuan AI untuk mengirim teks dan gambar.<br>
+Komponen Aplikasi:
 - Sidebar Navigation (Drawer): Memudahkan navigasi ke halaman Information dan About.
 - Information Page: Menampilkan daftar petunjuk penggunaan Gemini AI dalam bentuk ListView.
 - About Page: Berisi informasi aplikasi serta copyright.
