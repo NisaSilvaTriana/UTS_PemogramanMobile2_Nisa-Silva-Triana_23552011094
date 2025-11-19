@@ -3,7 +3,7 @@ NPM: 23552011094<br>
 Nama: Nisa Silva Triana<br>
 Kelas: TIF 23 CID A
 
-Gemini AI
+Gemini AI<br>
 Aplikasi ini dibuat dengan tema Gemini, yang mengimplementasikan kemampuan AI untuk mengirim teks dan gambar.
 Komponen Aplikasi
 - Sidebar Navigation (Drawer): Memudahkan navigasi ke halaman Information dan About.
