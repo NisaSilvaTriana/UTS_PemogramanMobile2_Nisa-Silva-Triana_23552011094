@@ -1,7 +1,7 @@
 # Ujian Tengah Semester Ganjil
 NPM: 23552011094<br>
 Nama: Nisa Silva Triana<br>
-Kelas: Pemrograman Mobile 2
+Kelas: TIF 23 CID A
 
 Gemini AI
 Aplikasi ini dibuat dengan tema Gemini, yang mengimplementasikan kemampuan AI untuk mengirim teks dan gambar.
