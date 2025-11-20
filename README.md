@@ -14,7 +14,7 @@ Komponen Aplikasi:
 Berikut terlampir link google drive berisi demo aplikasi:
 (https://drive.google.com/drive/folders/1q2bPT7QJ7dSwSeFXP4neT07JzHBU0LeH)<br>
 Berikut screenshot terlampir:<br>
-![WhatsApp Image 2025-11-20 at 12 52 52](https://github.com/user-attachments/assets/4e5c2d03-8dc5-4c11-9a63-c4ca4f4d53e3)
+![Halaman Login](https://github.com/user-attachments/assets/4e5c2d03-8dc5-4c11-9a63-c4ca4f4d53e3)
 ![WhatsApp Image 2025-11-20 at 12 52 52 (1)](https://github.com/user-attachments/assets/9f9659a3-b32c-4834-be70-4d5d3f007e2c)
 ![WhatsApp Image 2025-11-20 at 12 52 52 (2)](https://github.com/user-attachments/assets/2939ce5c-f585-46f7-85db-236c87442ab8)
 ![WhatsApp Image 2025-11-20 at 12 52 52 (3)](https://github.com/user-attachments/assets/83e6438a-5d63-4778-af16-762c23412daf)
