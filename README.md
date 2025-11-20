@@ -10,5 +10,8 @@ Komponen Aplikasi:
 - Information Page: Menampilkan daftar petunjuk penggunaan Gemini AI dalam bentuk ListView.
 - About Page: Berisi informasi aplikasi serta copyright.
 ## Copyright ##
-© 2025 | Nisa Silva Triana – 23552011094
+© 2025 | Nisa Silva Triana – 23552011094<br>
+Berikut terlampir link google drive berisi demo aplikasi:
+(https://drive.google.com/drive/folders/1q2bPT7QJ7dSwSeFXP4neT07JzHBU0LeH)
+Berikut screenshot terlampir:
 
